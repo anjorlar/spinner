@@ -360,7 +360,8 @@ li {
             width: 98%
         }
         } */
-@media only screen and (min-width: 540px) and (max-width: 825px) {
+/* @media only screen and (min-width: 540px) and (max-width: 825px) { */
+@media only screen and (max-width: 825px) {
     .footer-navbar {
         display: block;
         text-align: center;
